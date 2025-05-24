@@ -43,7 +43,6 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/></a>
       <a href="https://azure.microsoft.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50"/></a>
       <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/></a>
     </td>
