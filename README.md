@@ -7,9 +7,9 @@
 </pre>
 
 
-<h1 align="center">👋 Hi, I'm Khoa — a passionate developer from Vietnam!</h1>
+<h1 align="center">Hi, I'm Khoa — a passionate developer from Vietnam!</h1>
 <div align="center">
-  🌱 Currently studying at **FPT University HCM**  
+  <h3>🌱 Currently studying at FPT University HCM</h3>
 </div>
 
 ---
