@@ -6,7 +6,6 @@
                                                                              |_____|    |__|                                    
 </pre>
 
-
 <h1 align="center">Hi, I'm Khoa — a passionate developer from Vietnam!</h1>
 <div align="center">
   <h3>🌱 Currently studying at FPT University HCM</h3>
@@ -59,7 +58,7 @@
 
 ---
 
-## 📬 Connect with me  
+## 📬 Connect with me
 
 <div align="center">
 
@@ -70,7 +69,8 @@
 </div>
 
 ---
+
 </br>
 <div align="center">
-  © 2025 khoamature
+  © 2025 khoamatureprofile
 </div>
