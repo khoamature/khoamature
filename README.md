@@ -15,11 +15,11 @@
 
 ## Tech Stack
 
-<table style="width:100%;">
+<table style="width:100%">
   <tr>
-    <th align="center" >🖥 Frontend</th>
-    <th align="center" >⚙️ Backend</th>
-    <th align="center" >🛠 DevOps</th>
+    <th align="center" width="33%">🖥 Frontend</th>
+    <th align="center" width="33%">⚙️ Backend</th>
+    <th align="center" width="33%">🛠 DevOps</th>
   </tr>
   <tr>
     <td align="center" >
