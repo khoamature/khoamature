@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-<table style="width:100%">
+<table style="width:100%;">
   <tr>
     <th align="center" >🖥 Frontend</th>
     <th align="center" >⚙️ Backend</th>
