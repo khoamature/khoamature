@@ -19,7 +19,6 @@
   <div align="center" style="flex: 1;">
     <strong>🖥 Frontend</strong><br>
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
