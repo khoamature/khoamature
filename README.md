@@ -13,9 +13,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <th align="center" width="33%">🖥 Frontend</th>
     <th align="center" width="33%">⚙️ Backend</th>
@@ -50,7 +50,7 @@
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 
 <div align="center">
 
