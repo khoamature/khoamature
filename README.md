@@ -17,30 +17,27 @@
 <div style="display: flex; gap: 32px; flex-wrap: wrap;">
 
   <div align="center" style="flex: 1;">
-    <strong>🖥 Frontend</strong><br>
+    <strong>Frontend</strong><br>
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="40"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40"/>
   </div>
 
   <div align="center" style="flex: 1;">
-    <strong>⚙️ Backend</strong><br>
+    <strong>Backend</strong><br>
     <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="40"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
   </div>
 
   <div align="center" style="flex: 1;">
-    <strong>🛠 DevOps</strong><br>
+    <strong>DevOps</strong><br>
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="40"/>
   </div>
 
